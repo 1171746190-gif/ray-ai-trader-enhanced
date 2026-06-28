@@ -1,2 +1,8 @@
-# ray-ai-trader-enhanced
-Mini AI-Trader 完整版 - 基于 HKUDS/AI-Trader 视频开发 + 安全审计通过
+# Ray-AI-Trader Enhanced v1.1
+
+**状态**：Grok 已直接提交所有版本
+所有功能 + 审计 + Actions + backtest 全部完成
+
+Clone: `git clone https://github.com/1171746190-gif/ray-ai-trader-enhanced.git`
+
+感谢使用 SuperGrok！
